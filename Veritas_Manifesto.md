@@ -4,7 +4,7 @@
 ## **I. The Core Truth**
 Power, unchecked, leads to corruption. History has repeatedly shown this—from the fall of the Roman Republic due to authoritarian overreach to modern autocracies where unchecked rulers prioritize self-preservation over public good. Whether in corporate monopolies, political regimes, or even democratic systems where oversight weakens, **power without constraints inevitably breeds corruption.**  
 
-Leadership should be a **temporary responsibility, not a permanent entitlement.** The pursuit of power for its own sake is the greatest threat to progress. The **Veritas Model** proposes a new governance structure that prioritizes **truth, transparency, and accountability**, ensuring that **ethical leadership is the only viable path to power.**  
+Leadership should be a **temporary responsibility, not a permanent entitlement.** The pursuit of power for its own sake is the greatest threat to progress. This manifesto proposes a new governance model that prioritizes **truth, transparency, and accountability, harnessing technological innovation to ensure ethical leadership is the only viable path to power.**  
 
 ---
 
@@ -17,6 +17,7 @@ A true leader is not defined by **status, wealth, or charisma**, but by their ab
 ✔ **Service, Not Ego** – Leadership is a **duty, not a personal empire**. The incentive structure must reward **competence and service** over self-interest.  
 ✔ **Structural Corruption Resistance** – The system must be designed so that **corruption is more difficult and less rewarding than ethical governance**.  
 ✔ **A Defined End** – Leadership must always be **borrowed, never owned**. No leader should have **indefinite rule, extensions, or legacy control**.  
+✔ **Innovation in Governance** – Systems must evolve with new technologies, ensuring progress and resilience against corruption.  
 
 ---
 
@@ -74,4 +75,7 @@ To transition from existing governance models, **Veritas principles must be test
 ✔ **Power must serve truth.**  
 ✔ **Truth must never serve power.**  
 
+The success of this model depends on **continuous iteration, adaptation, and the engagement of diverse thinkers committed to ethical governance and responsible innovation.**  
+
 The next step is simple: **implementation.**
+
